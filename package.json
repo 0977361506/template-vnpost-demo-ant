@@ -1,0 +1,156 @@
+{
+  "name": "template-vnpost-2022",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/colors": "6.0.0",
+    "@ant-design/icons": "4.7.0",
+    "@craco/craco": "6.4.3",
+    "@reduxjs/toolkit": "1.8.3",
+    "antd": "4.21.4",
+    "antd-mobile": "5.17.1",
+    "axios": "0.27.2",
+    "craco-less": "2.0.0",
+    "cross-env": "7.0.3",
+    "env-cmd": "10.1.0",
+    "lodash": "4.17.21",
+    "moment": "2.29.3",
+    "node-sass": "7.0.1",
+    "react": "18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "1.3.2",
+    "react-intl": "6.0.4",
+    "react-redux": "8.0.2",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "5.0.1",
+    "redux": "4.2.0",
+    "redux-persist": "6.0.0",
+    "redux-saga": "1.1.3",
+    "styled-components": "5.3.5",
+    "web-vitals": "2.1.4",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.9/xlsx-0.18.9.tgz"
+  },
+  "scripts": {
+    "start": "env-cmd -f .env.dev craco start",
+    "start:dev": "env-cmd -f .env.dev cross-env PUBLIC_URL=/ craco start",
+    "build": "cross-env PUBLIC_URL=/ GENERATE_SOURCEMAP=false craco build",
+    "build:beta": "env-cmd -f .env.beta craco build",
+    "build:production": "craco build",
+    "build:test": "env-cmd -f .env.dev cross-env NODE_ENV=production REACT_APP_ENVIRONMENT=local craco build",
+    "build:dev": "craco build",
+    "test": "env-cmd -f .env.dev jest --coverage --watchAll=false",
+    "test-dev": "env-cmd -f .env.dev jest --watchAll=false",
+    "test:watch": "jest test --coverage --watchAll=true",
+    "eject": "react-scripts eject",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      },
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      },
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      },
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      },
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "7.12.3",
+    "@babel/eslint-parser": "7.18.2",
+    "@babel/preset-env": "7.18.6",
+    "@babel/preset-react": "7.12.13",
+    "@storybook/addon-actions": "6.5.9",
+    "@storybook/addon-essentials": "6.5.9",
+    "@storybook/addon-interactions": "6.5.9",
+    "@storybook/addon-links": "6.5.9",
+    "@storybook/builder-webpack5": "6.5.9",
+    "@storybook/manager-webpack5": "6.5.9",
+    "@storybook/node-logger": "6.5.9",
+    "@storybook/preset-create-react-app": "4.1.2",
+    "@storybook/react": "6.5.9",
+    "@storybook/testing-library": "0.0.13",
+    "@testing-library/jest-dom": "5.16.4",
+    "@testing-library/react": "13.3.0",
+    "@testing-library/user-event": "13.5.0",
+    "@wojtekmaj/enzyme-adapter-react-17": "0.6.7",
+    "babel-eslint": "10.1.0",
+    "babel-loader": "8.2.1",
+    "babel-plugin-named-exports-order": "0.0.2",
+    "babel-preset-jest": "28.1.1",
+    "brotli-webpack-plugin": "1.1.0",
+    "compression-webpack-plugin": "10.0.0",
+    "enzyme": "3.11.0",
+    "eslint": "7.13.0",
+    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-prettier": "6.15.0",
+    "eslint-plugin-cypress": "2.11.2",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-jsx-a11y": "6.4.1",
+    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-react": "7.30.1",
+    "jest": "26.6.3",
+    "jest-environment-enzyme": "7.1.2",
+    "jest-enzyme": "^7.1.2",
+    "prettier": "2.1.2",
+    "prop-types": "15.8.1",
+    "redux-mock-store": "^1.5.4",
+    "storybook-addon-intl": "2.4.1",
+    "storybook-addon-styled-component-theme": "1.3.0",
+    "uglifyjs-webpack-plugin": "2.2.0",
+    "webpack": "5.73.0"
+  }
+}
