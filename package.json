@@ -1,9 +1,6 @@
 {
   "name": "template-vnpost-2022",
   "version": "0.1.0",
-  "engines": {
-    "node": "14.8.0"
-  },
   "private": true,
   "dependencies": {
     "@ant-design/colors": "6.0.0",
@@ -39,7 +36,7 @@
     "start:dev": "env-cmd -f .env.dev cross-env PUBLIC_URL=/ craco start",
     "build": "cross-env PUBLIC_URL=/ GENERATE_SOURCEMAP=false craco build",
     "build:beta": "env-cmd -f .env.beta craco build",
-    "build:production": "craco build",
+    "build:production": "env-cmd -f .env.production craco build",
     "build:test": "env-cmd -f .env.dev cross-env NODE_ENV=production REACT_APP_ENVIRONMENT=local craco build",
     "build:dev": "craco build",
     "test": "env-cmd -f .env.dev jest --coverage --watchAll=false",

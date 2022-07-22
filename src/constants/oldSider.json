@@ -1,0 +1,197 @@
+{
+    "General": {
+      "data": {
+        "Button": {
+          "icon": "",
+          "url": "/template/button",
+          "key": "Button"
+        },
+        "Icon": {
+          "icon": "",
+          "url": "/template/icon",
+          "key": "Icon"
+        },
+        "Typography": {
+          "icon": "",
+          "url": "/template/typography",
+          "key": "Typography"
+        }
+      },
+      "icon": "",
+      "url": "",
+      "key": "General"
+    },
+    "Layout": {
+      "data": {
+        "Divider": {
+          "icon": "",
+          "url": "/template/divider",
+          "key": "Divider"
+        },
+        "Grid": {
+          "icon": "",
+          "url": "/template/grid",
+          "key": "Grid"
+        },
+        "Layout": {
+          "icon": "",
+          "url": "/template/layout",
+          "key": "Layout"
+        },
+        "Space": {
+          "icon": "",
+          "url": "/template/space",
+          "key": "Space"
+        }
+      },
+      "icon": "",
+      "url": "",
+      "key": "Layout"
+    },
+    "Navigation": {
+      "data": {
+        "Affix": {
+          "icon": "",
+          "url": "/template/affix",
+          "key": "Affix"
+        },
+        "Breadcrumb": {
+          "icon": "",
+          "url": "/template/breadcrumb",
+          "key": "Breadcrumb"
+        },
+        "Dropdown": {
+          "icon": "",
+          "url": "/template/dropdown",
+          "key": "Dropdown"
+        },
+        "Menu": {
+          "icon": "",
+          "url": "/template/menu",
+          "key": "Menu"
+        },
+        "PageHeader": {
+          "icon": "",
+          "url": "/template/pageHeader",
+          "key": "PageHeader"
+        },
+        "Pagination": {
+          "icon": "",
+          "url": "/template/pagination",
+          "key": "Pagination"
+        },
+        "Steps": {
+          "icon": "",
+          "url": "/template/steps",
+          "key": "Steps"
+        }
+      },
+      "icon": "",
+      "url": "",
+      "key": "Navigation"
+    },
+    "Data Entry": {
+      "data": {
+        "Button": {
+          "icon": "",
+          "url": "",
+          "key": "Button1"
+        }
+      },
+      "icon": "",
+      "url": "",
+      "key": "Data_Entry"
+    },
+    "Data Display": {
+      "data": {
+        "Button": {
+          "icon": "",
+          "url": "",
+          "key": "Other"
+        }
+      },
+      "icon": "",
+      "url": "",
+      "key": "Data Display"
+    },
+    "Feedback": {
+      "data": {
+        "Alert": {
+          "icon": "",
+          "url": "/template/alert",
+          "key": "Alert"
+        },
+        "Drawer": {
+          "icon": "",
+          "url": "/template/drawer",
+          "key": "Drawer"
+        },
+        "Message": {
+          "icon": "",
+          "url": "/template/message",
+          "key": "Message"
+        },
+        "Modal": {
+          "icon": "",
+          "url": "/template/modal",
+          "key": "Modal"
+        },
+        "Notification": {
+          "icon": "",
+          "url": "/template/notification",
+          "key": "Notification"
+        },
+        "PopConfirm": {
+          "icon": "",
+          "url": "/template/popconfirm",
+          "key": "PopConfirm"
+        },
+        "Progress": {
+          "icon": "",
+          "url": "/template/progress",
+          "key": "Progress"
+        },
+        "Result": {
+          "icon": "",
+          "url": "/template/result",
+          "key": "Result"
+        },
+        "Skeleton": {
+          "icon": "",
+          "url": "/template/skeleton",
+          "key": "Skeleton"
+        },
+        "Spin": {
+          "icon": "",
+          "url": "/template/spin",
+          "key": "Spin"
+        }
+      },
+      "icon": "",
+      "url": "",
+      "key": "Feedback"
+    },
+    "Other": {
+      "data": {
+        "Anchor": {
+          "icon": "",
+          "url": "/template/anchor",
+          "key": "Anchor"
+        },
+        "BackTop": {
+          "icon": "",
+          "url": "/template/backTop",
+          "key": "BackTop"
+        },
+        "ConfigProvider": {
+          "icon": "",
+          "url": "/template/configProvider",
+          "key": "ConfigProvider"
+        }
+      },
+      "icon": "",
+      "url": "",
+      "key": "Other"
+    }
+  }
+  

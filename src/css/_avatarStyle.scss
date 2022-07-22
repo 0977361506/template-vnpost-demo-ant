@@ -1,0 +1,25 @@
+.warp-avatar {
+  display: inline-block;
+  div {
+    text-align:  center;
+    img {
+      width: 50%;
+      margin: 2px 0;
+    }
+  }
+  .warp-text-avt {
+    max-width: 120px;
+    font-size: 12px;
+    h3 {
+        font-weight: 600;
+    }
+    p {
+        color: #92929D;
+    }
+  }
+}
+.site-calendar-demo-card {
+  width: 300px;
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
+}

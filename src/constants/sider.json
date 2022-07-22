@@ -1,0 +1,253 @@
+{
+  "General": {
+    "data": {
+      "Button": {
+        "icon": "",
+        "url": "/template/button",
+        "key": "Button"
+      },
+      "Icon": {
+        "icon": "",
+        "url": "/template/icon",
+        "key": "Icon"
+      },
+      "Typography": {
+        "icon": "",
+        "url": "/template/typography",
+        "key": "Typography"
+      }
+    },
+    "icon": "",
+    "url": "",
+    "key": "General"
+  },
+  "Navigation": {
+    "data": {
+      "Breadcrumb": {
+        "icon": "",
+        "url": "/template/breadcrumb",
+        "key": "Breadcrumb"
+      },
+
+      "Pagination": {
+        "icon": "",
+        "url": "/template/pagination",
+        "key": "Pagination"
+      },
+      "Steps": {
+        "icon": "",
+        "url": "/template/steps",
+        "key": "Steps"
+      }
+    },
+    "icon": "",
+    "url": "",
+    "key": "Navigation"
+  },
+  "Data Entry": {
+    "data": {
+      "AutoComplete": {
+        "icon": "",
+        "url": "/template/autoComplete",
+        "key": "AutoComplete"
+      },
+      "Cascade ": {
+        "icon": "",
+        "url": "/template/cascade ",
+        "key": "Cascade "
+      },
+      "Checkbox": {
+        "icon": "",
+        "url": "/template/checkbox",
+        "key": "Checkbox"
+      },
+      "DatePicker": {
+        "icon": "",
+        "url": "/template/datePicker",
+        "key": "DatePicker"
+      },
+      "Form": {
+        "icon": "",
+        "url": "/template/form",
+        "key": "Form"
+      },
+      "Input": {
+        "icon": "",
+        "url": "/template/input",
+        "key": "Input"
+      },
+      "Radio": {
+        "icon": "",
+        "url": "/template/radio",
+        "key": "Radio"
+      },
+      "Rate": {
+        "icon": "",
+        "url": "/template/rate",
+        "key": "Rate"
+      },
+      "Select": {
+        "icon": "",
+        "url": "/template/select",
+        "key": "Select"
+      },
+      "Switch": {
+        "icon": "",
+        "url": "/template/switch",
+        "key": "Switch"
+      },
+      "TimePicker": {
+        "icon": "",
+        "url": "/template/timePicker",
+        "key": "TimePicker"
+      },
+      "Transfer": {
+        "icon": "",
+        "url": "/template/transfer",
+        "key": "Transfer"
+      },
+      "TreeSelect": {
+        "icon": "",
+        "url": "/template/treeSelect",
+        "key": "TreeSelect"
+      },
+      "Upload": {
+        "icon": "",
+        "url": "/template/upload",
+        "key": "Upload"
+      }
+    },
+    "icon": "",
+    "url": "",
+    "key": "Data_Entry"
+  },
+  "Data Display": {
+    "data": {
+      "Avatar": {
+        "icon": "",
+        "url": "/template/avatar",
+        "key": "Avatar"
+      },
+      "Badge": {
+        "icon": "",
+        "url": "/template/badge",
+        "key": "OBadgether"
+      },
+      "Calendar": {
+        "icon": "",
+        "url": "/template/calendar",
+        "key": "Calendar"
+      },
+      "Card": {
+        "icon": "",
+        "url": "/template/card",
+        "key": "Card"
+      },
+      "Carousel": {
+        "icon": "",
+        "url": "/template/carousel",
+        "key": "Carousel"
+      },
+      "Collapse": {
+        "icon": "",
+        "url": "/template/collapse",
+        "key": "Collapse"
+      },
+      "Comment": {
+        "icon": "",
+        "url": "/template/comment",
+        "key": "Comment"
+      },
+      "Descriptions": {
+        "icon": "",
+        "url": "/template/descriptions",
+        "key": "Descriptions"
+      },
+      "Empty": {
+        "icon": "",
+        "url": "/template/empty",
+        "key": "Empty"
+      },
+      "Image": {
+        "icon": "",
+        "url": "/template/image",
+        "key": "Image"
+      },
+      "List": {
+        "icon": "",
+        "url": "/template/list",
+        "key": "List"
+      },
+      "Popover": {
+        "icon": "",
+        "url": "/template/popover",
+        "key": "Popover"
+      },
+      "Segmented": {
+        "icon": "",
+        "url": "/template/segmented",
+        "key": "Segmented"
+      },
+      "Statistic": {
+        "icon": "",
+        "url": "/template/statistic",
+        "key": "Statistic"
+      },
+      "Table": {
+        "icon": "",
+        "url": "/template/table",
+        "key": "Table"
+      },
+      "Tabs": {
+        "icon": "",
+        "url": "/template/tabs",
+        "key": "Tabs"
+      },
+      "Tag": {
+        "icon": "",
+        "url": "/template/tag",
+        "key": "Tag"
+      },
+      "Timeline": {
+        "icon": "",
+        "url": "/template/timeline",
+        "key": "Timeline"
+      },
+      "Tooltip": {
+        "icon": "",
+        "url": "/template/tooltip",
+        "key": "Tooltip"
+      },
+      "Tree": {
+        "icon": "",
+        "url": "/template/tree",
+        "key": "Tree"
+      }
+    },
+    "icon": "",
+    "url": "",
+    "key": "Data Display"
+  },
+  "Feedback": {
+    "data": {
+      "Drawer": {
+        "icon": "",
+        "url": "/template/drawer",
+        "key": "Drawer"
+      },
+      "Modal": {
+        "icon": "",
+        "url": "/template/modal",
+        "key": "Modal"
+      },
+      "Notification": {
+        "icon": "",
+        "url": "/template/notification",
+        "key": "Notification"
+      }
+    },
+    "icon": "",
+    "url": "",
+    "key": "Feedback"
+  }
+}

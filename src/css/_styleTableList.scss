@@ -1,0 +1,105 @@
+.ant-layout-content.site-layout-background {
+  background-color: #f1f1f5;
+  padding: 0 !important;
+}
+.table-warp-list {
+  background-color: #ffffff;
+  padding: 16px 24px;
+}
+.content-warp-table {
+  background-color: #ffffff;
+  margin: 20px 24px;
+  padding: 20px 24px;
+}
+.max-w-265px {
+  max-width: 265px;
+}
+.min-w-264px {
+  min-width: 264px;
+}
+.text-and-search-be {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-171725-bold {
+  color: #171725;
+  font-weight: 500;
+  font-size: 16px;
+}
+.mt-5-tw {
+  margin-top: 20px;
+  margin-top: 1.25rem;
+}
+.giang.ant-input-group-wrapper-lg .ant-input-affix-wrapper-lg {
+  padding: 4px 11px;
+}
+.giang.ant-input-group-wrapper-lg .ant-input-lg {
+  font-size: 14px;
+}
+.space-warp-table button {
+  box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.016);
+  border-radius: 2px;
+  background: #ffffff;
+  /* white4 */
+  border: 1px solid #dedee5;
+  color: #171725;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+}
+.content-warp-table .ant-table-body {
+  max-height: calc(100vh - 200px) !important;
+}
+.config_class {
+  // display: none;
+}
+.ant-table-body .ant-table-cell.config_class {
+  position: relative;
+  right: 0;
+  z-index: 2;
+  width: 150px;
+  background-color: #ffffff;
+}
+.ant-table-header .ant-table-cell.config_class,
+// .ant-table-row .config_class {
+//   display: revert;
+// }
+// .ant-table-row:hover {
+//   .config_class {
+//     display: revert;
+//   }
+// }
+.ant-table-cell.ant-table-cell-row-hover {
+  display: revert;
+  position: sticky !important;
+}
+.ant-table-ping-right {
+}
+.ant-table-ping-right .ant-table-cell.ant-table-cell-row-hover.config_class::after {
+  box-shadow: inset -10px 0 8px -8px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  top: 0;
+  bottom: -1px;
+  left: 0;
+  width: 30px;
+  transform: translateX(-100%);
+  transition: box-shadow 0.3s;
+  content: '';
+  pointer-events: none;
+}
+.flex-footer-model {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  a {
+    color: #000000;
+  }
+}
+.list-warp-button-table {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+

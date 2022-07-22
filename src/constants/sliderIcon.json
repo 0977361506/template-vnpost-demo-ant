@@ -1,0 +1,801 @@
+{
+  "General": {
+    "id": "number",
+    "icon": "UserOutlined",
+    "idParent": "number",
+    "idSystem": "number",
+    "orderNo": "number",
+    "status": "number",
+    "externalUrl": "string",
+    "permissions": [
+      {
+        "servicename": "controllername/index"
+      }
+    ],
+    "items": {
+      "Button": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/button",
+        "title": "Button"
+      },
+      "Icon": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/icon",
+        "title": "Icon"
+      },
+      "Typography": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/typography",
+        "title": "Typography"
+      }
+    },
+    "icon": "",
+    "routerLink": "",
+    "title": "General"
+  },
+  "Navigation": {
+    "id": "number",
+    "idParent": "number",
+    "idSystem": "number",
+    "orderNo": "number",
+    "status": "number",
+    "externalUrl": "string",
+    "permissions": [
+      {
+        "servicename": "controllername/index"
+      }
+    ],
+    "items": {
+      "Breadcrumb": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/breadcrumb",
+        "title": "Breadcrumb"
+      },
+
+      "Pagination": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/pagination",
+        "title": "Pagination"
+      },
+      "Steps": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/steps",
+        "title": "Steps"
+      }
+    },
+    "icon": "",
+    "routerLink": "",
+    "title": "Navigation"
+  },
+  "DataEntry": {
+    "id": "number",
+    "idParent": "number",
+    "idSystem": "number",
+    "orderNo": "number",
+    "status": "number",
+    "externalUrl": "string",
+    "permissions": [
+      {
+        "servicename": "controllername/index"
+      }
+    ],
+    "items": {
+      "AutoComplete": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/autoComplete",
+        "title": "AutoComplete"
+      },
+      "Cascade ": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/cascade ",
+        "title": "Cascade "
+      },
+      "Checkbox": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/checkbox",
+        "title": "Checkbox"
+      },
+      "DatePicker": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/datePicker",
+        "title": "DatePicker"
+      },
+      "Form": {
+        "icon": "",
+        "routerLink": "/template/form",
+        "title": "Form"
+      },
+      "Input": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/input",
+        "title": "Input"
+      },
+      "Radio": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/radio",
+        "title": "Radio"
+      },
+      "Rate": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/rate",
+        "title": "Rate"
+      },
+      "Select": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/select",
+        "title": "Select"
+      },
+      "Switch": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/switch",
+        "title": "Switch"
+      },
+      "TimePicker": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/timePicker",
+        "title": "TimePicker"
+      },
+      "Transfer": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/transfer",
+        "title": "Transfer"
+      },
+      "TreeSelect": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/treeSelect",
+        "title": "TreeSelect"
+      },
+      "Upload": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/upload",
+        "title": "Upload"
+      }
+    },
+    "icon": "",
+    "routerLink": "",
+    "title": "Data Entry"
+  },
+  "DataDisplay": {
+    "id": "number",
+    "idParent": "number",
+    "idSystem": "number",
+    "orderNo": "number",
+    "status": "number",
+    "externalUrl": "string",
+    "permissions": [
+      {
+        "servicename": "controllername/index"
+      }
+    ],
+    "items": {
+      "Avatar": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/avatar",
+        "title": "Avatar"
+      },
+      "Badge": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/badge",
+        "title": "Badge"
+      },
+      "Calendar": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/calendar",
+        "title": "Calendar"
+      },
+      "Card": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/card",
+        "title": "Card"
+      },
+      "Carousel": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/carousel",
+        "title": "Carousel"
+      },
+      "Collapse": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/collapse",
+        "title": "Collapse"
+      },
+      "Comment": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/comment",
+        "title": "Comment"
+      },
+      "Descriptions": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/descriptions",
+        "title": "Descriptions"
+      },
+      "Empty": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/empty",
+        "title": "Empty"
+      },
+      "Image": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/image",
+        "title": "Image"
+      },
+      "List": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/list",
+        "title": "List"
+      },
+      "Popover": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/popover",
+        "title": "Popover"
+      },
+      "Segmented": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/segmented",
+        "title": "Segmented"
+      },
+      "Statistic": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/statistic",
+        "title": "Statistic"
+      },
+      "Table": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/table",
+        "title": "Table"
+      },
+      "Tabs": {
+        "icon": "",
+        "routerLink": "/template/tabs",
+        "title": "Tabs"
+      },
+      "Tag": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/tag",
+        "title": "Tag"
+      },
+      "Timeline": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/timeline",
+        "title": "Timeline"
+      },
+      "Tooltip": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/tooltip",
+        "title": "Tooltip"
+      },
+      "Tree": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/tree",
+        "title": "Tree"
+      }
+    },
+    "icon": "",
+    "routerLink": "",
+    "title": "Data Display"
+  },
+  "Feedback": {
+    "id": "number",
+    "idParent": "number",
+    "idSystem": "number",
+    "orderNo": "number",
+    "status": "number",
+    "externalUrl": "string",
+    "permissions": [
+      {
+        "servicename": "controllername/index"
+      }
+    ],
+    "items": {
+      "Drawer": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/drawer",
+        "title": "Drawer"
+      },
+      "Modal": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/modal",
+        "title": "Modal"
+      },
+      "Notification": {
+        "id": "number",
+        "idParent": "number",
+        "idSystem": "number",
+        "orderNo": "number",
+        "status": "number",
+        "externalUrl": "string",
+        "permissions": [
+          {
+            "servicename": "controllername/index"
+          }
+        ],
+        "items": {},
+        "icon": "",
+        "routerLink": "/template/notification",
+        "title": "Notification"
+      }
+    },
+    "icon": "",
+    "routerLink": "",
+    "title": "Feedback"
+  }
+}

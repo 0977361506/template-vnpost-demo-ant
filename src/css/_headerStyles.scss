@@ -1,0 +1,107 @@
+.ant-layout-header {
+  background: #fff;
+  line-height: 48px !important;
+}
+
+.app-header {
+  position: fixed;
+  width: 100vw;
+  height: 48px;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+  justify-content: space-around;
+  border-bottom: 1px solid #e8e8e8;
+
+  .left {
+    display: flex;
+    flex: 1;
+
+    .toggle {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 48px;
+    }
+
+    .app-header-logo {
+      height: 48px;
+      width: auto;
+      padding: 0 16px;
+      font-size: 16px;
+      font-weight: 600;
+      color: #000000;
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        margin-right: 8px;
+      }
+    }
+  }
+
+  .right {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    flex-direction: row;
+  }
+}
+
+.ant-layout {
+  .app-header {
+    transition: all 0.2s;
+  }
+  main.ant-layout-content {
+    transition: all 0.2s;
+  }
+}
+.compensate-for-fullscreen {
+  .app-header {
+    top: -48px !important;
+  }
+  aside.ant-layout-sider {
+    left: -300px !important;
+  }
+  main.ant-layout-content {
+    margin: 0 !important;
+  }
+}
+.btn-dis-hover:focus,
+.btn-dis-hover:hover {
+  color: #000000;
+}
+.warp_menu_aisa {
+  transition: all 0.2s;
+  cursor: pointer;
+  position: fixed;
+  top: 50%;
+  margin-top: -33px;
+  div {
+    position: relative;
+    div {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -11px;
+      margin-left: -3px;
+    }
+  }
+}
+.ml-300-tw {
+  margin-left: 299px;
+}
+.ml-48-tw {
+  margin-left: 47px;
+}
+.align-items-center {
+  align-items: center;
+}
+.transition_all_02 {
+  transition: all 0.2s;
+}
+.hidden_search {
+  transform: translateY(-48px);
+}

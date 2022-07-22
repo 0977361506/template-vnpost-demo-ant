@@ -1,0 +1,28 @@
+.notification-layout-container {
+    // height: 85vh;
+    // overflow: scroll;
+    // overflow-x: hidden;
+    // display: flex;
+    // justify-content: flex-start;
+    // flex-direction: row;
+    // flex-wrap: wrap;
+    // div {
+    //     width: 50%;
+    // }
+}
+
+.ant-notification-notice-success {
+    background-color: #f6ffed;
+}
+
+.ant-notification-notice-info {
+    background-color: #e6f7ff;
+}
+
+.ant-notification-notice-warning {
+    background-color: #fffbe6;
+}
+
+.ant-notification-notice-error {
+    background-color: #fff2f0;
+}

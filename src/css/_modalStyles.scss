@@ -1,0 +1,15 @@
+.ant-modal-body {
+}
+
+.custom-footer-modal {
+    display: flex;
+    justify-content: space-around;
+
+    .left {
+        flex: 1;
+        display: flex;
+    }
+    .right {
+        flex: 3;
+    }
+}

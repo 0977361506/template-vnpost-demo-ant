@@ -1,0 +1,27 @@
+.app-layout {
+  .app-header {
+    // height: 48px;
+    svg {
+      font-size: 18px;
+    }
+  }
+
+  .app-sider {
+    min-width: 48px !important;
+    width: 48px !important;
+  }
+}
+.bg_login {
+  height: 100%;
+  width: 100%;
+  background-color: #fcb71e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .login-warp {
+    padding: 50px 60px;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 4px;
+  }
+}

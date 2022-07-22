@@ -1,0 +1,56 @@
+import {
+  cyan,
+  geekblue,
+  gold,
+  green,
+  grey,
+  lime,
+  magenta,
+  orange,
+  purple,
+  red,
+  volcano,
+  yellow,
+} from '@ant-design/colors'
+
+import { COLORS, primaryText } from '../colors.config'
+
+export default {
+  blue: COLORS.blue,
+  cyan,
+  geekblue,
+  gold,
+  green,
+  grey: [grey[0], ...COLORS.gray, grey[9]],
+  lime,
+  magenta,
+  orange,
+  purple,
+  red,
+  volcano,
+  yellow,
+  primary: COLORS.primary,
+  primaryText,
+  TopShadowLv1: '0px 4px 8px -2px rgba(3, 44, 71, 0.12), 0px 0px 2px rgba(3, 44, 71, 0.08)',
+  TopShadowLv2:
+    '0px 8px 24px -4px rgba(3, 44, 71, 0.08), 0px 4px 8px -2px rgba(3, 44, 71, 0.12), 0px 0px 4px rgba(3, 44, 71, 0.08)',
+  TopShadowLv3:
+    '0px 16px 32px -4px rgba(3, 44, 71, 0.04), 0px 8px 24px -4px rgba(3, 44, 71, 0.08), 0px 4px 8px -2px rgba(3, 44, 71, 0.12), 0px 0px 4px rgba(3, 44, 71, 0.08)',
+  TopShadowLv4:
+    '0px 24px 48px -8px rgba(3, 44, 71, 0.08), 0px 16px 32px -4px rgba(3, 44, 71, 0.04), 0px 8px 24px -4px rgba(3, 44, 71, 0.08), 0px 4px 8px -2px rgba(3, 44, 71, 0.12), 0px 0px 4px rgba(3, 44, 71, 0.08)',
+  CenterShadowLv1: '0px 0px 4px rgba(3, 44, 71, 0.16)',
+  CenterShadowLv2: '0px 0px 8px rgba(3, 44, 71, 0.16)',
+  CenterShadowLv3: '0px 0px 12px rgba(3, 44, 71, 0.2)',
+  CenterShadowLv4: '0px 0px 24px -4px rgba(3, 44, 71, 0.4)',
+  CenterShadowLv5: '0px 0px 48px rgba(3, 44, 71, 0.1)',
+  SpacingXXS: 2,
+  SpacingXS: 4,
+  Spacing6: 6,
+  SpacingS: 8,
+  Spacing12: 12,
+  Spacing15: 15,
+  SpacingM: 16,
+  SpacingL: 24,
+  Spacing30: '30px',
+  SpacingXL: 32,
+}
